@@ -19,9 +19,9 @@ detecting
 
 my dataset
 my dataset include data for 10 signs
-hello==> waving
-i like it==> thumbs up
-i dont like it==> thumbs down
+hello==>
+i like it==> 
+i dont like it==> 
 i love you==> 
 yes==> fist
 no==> 
